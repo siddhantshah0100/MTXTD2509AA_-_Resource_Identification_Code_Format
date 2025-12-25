@@ -1,5 +1,5 @@
-# MXXXX2509A-Resource_Identification_Code_Format
-MXXXX2509A - Resource Identification Code Format
+# MXXXX2509AA-Resource_Identification_Code_Format
+MXXXX2509AA - Resource Identification Code Format
 
 # **Resource Identification Code Format** for:
 
