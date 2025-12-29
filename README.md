@@ -9,7 +9,7 @@
 - **Date Updated**: *29th December 2025*
 - **Resource Type**: *User Manual*
 - **Resource Core**: *Text Document*
-- **Resource Date**: *1st September 2025*
+- **Resource Date**: *September 2025*
 - **Resource Name**: *AA \(001\)*
 
 ## **TABLE OF CONTENTS**
